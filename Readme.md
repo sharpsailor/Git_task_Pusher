@@ -10,7 +10,7 @@ ScreenShots
 ![Alt text](image-1.png)
 
 ## Check out the App here 
-   ![APP](https://github.com/sharpsailor/ToDo-Cli/blob/main/dist/todo.exe)
+   [.exe File](https://github.com/sharpsailor/ToDo-Cli/blob/main/dist/todo.exe)
 ## Overview
 
 Welcome to the TODO-CLI application by Sharpsailor ( [JITENDER SINGH](https://www.linkedin.com/in/sharpsailor/))! This command-line tool simplifies task management by providing a convenient interface to organize daily tasks and push them to a GitHub repository.

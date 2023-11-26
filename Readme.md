@@ -1,7 +1,8 @@
 # TODO-CLI Application 
 Demo:
 
-[Video](C:\Users\Sharpsailor\Downloads\ToDo_CLI.mp4)
+https://github.com/sharpsailor/ToDo-Cli/assets/73359865/e3a9ee87-c5ac-4c11-aa39-4d4317ccd3ab
+
 
 ScreenShots
 

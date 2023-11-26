@@ -32,6 +32,7 @@ To use the TODO-CLI application, follow these steps:
     python todo_cli.py
 
     ```
+    
 
 ## Usage
 

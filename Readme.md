@@ -1,37 +1,72 @@
-# Todo CLI tool
-    As per my requirements I have thought of making a CLI Todo app where it will have these functions as of now 
+# TODO-CLI Application 
+Demo:
 
+[Video](C:\Users\Sharpsailor\Downloads\ToDo_CLI.mp4)
 
-    -> enter the git repo 
-    -> connection success or fail check for the correct auth
-    -> Add day no
-    -> add task 
-    -> save or exit command 
-    -> Changes pushed to repo
-    -> Scheduler 
-    -> 
+ScreenShots
 
-     git script
-    {
-        git add 
-        git commit " File_name "
-        All The Pushing Cmd for git repository
-    }
+![Alt text](image.png)
+![Alt text](image-1.png)
+## Overview
 
-# Requirements for me right now 
+Welcome to the TODO-CLI application by Sharpsailor ( [JITENDER SINGH](https://www.linkedin.com/in/sharpsailor/))! This command-line tool simplifies task management by providing a convenient interface to organize daily tasks and push them to a GitHub repository.
+
+## Features
+
+- **Task Management:** Add, view, and delete tasks for each day.
+- **GitHub Integration:** Push tasks to a GitHub repository for version control.
+- **Customizable Destination:** Choose a destination folder for task files.
+
+## Installation
+
+To use the TODO-CLI application, follow these steps:
+
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/your-username/todo-cli.git
+   cd todo-cli
+    ```
+2. **Run the Application:**
     
-    [Done]Coding basic Functional things 
-        - Create Task
-        - add Task 
-        - delete Task
-    [Up] Scheduler for Git Push
+    ```
+    python todo_cli.py
 
-# Functionalities I have thought 
+    ```
 
-   -  Task creation and management: 
-        Create, edit, and delete tasks.
-   -  Task organization: Organize tasks into lists or categories.
-   -  Task prioritization: Set priority levels for tasks.
-   -  Due dates: Set due dates for tasks.
-   - Reminders: Set reminders for tasks.
-   - Completion tracking: Mark tasks as completed.
+## Usage
+
+### Adding a Day
+1. Run the application.
+2. Select the option to add a new day.
+3. Enter the day number.
+4. Add tasks for the day.
+
+### Adding a Task
+1. Run the application.
+2. Select the option to add a task.
+3. Enter the task details.
+
+### Viewing Tasks
+1. Run the application.
+2. Select the option to view tasks.
+
+### Deleting a Task
+1. Run the application.
+2. Select the option to delete a task.
+3. Enter the task number to delete it.
+
+### Saving and Exiting
+1. Run the application.
+2. Select the option to save and exit.
+
+## GitHub Integration
+
+Ensure your GitHub credentials are configured within the application for seamless integration. Upon exiting the application, choose whether to push tasks to your GitHub repository.
+
+## Contributing
+
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

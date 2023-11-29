@@ -1,4 +1,4 @@
-# TODO-CLI Application 
+# Git Task Pusher CLI Application 
 Demo:
 
 https://github.com/sharpsailor/ToDo-Cli/assets/73359865/e3a9ee87-c5ac-4c11-aa39-4d4317ccd3ab
@@ -13,7 +13,7 @@ ScreenShots
    [.exe File](https://github.com/sharpsailor/ToDo-Cli/blob/main/dist/todo.exe)
 ## Overview
 
-Welcome to the TODO-CLI application by Sharpsailor ( [JITENDER SINGH](https://www.linkedin.com/in/sharpsailor/))! This command-line tool simplifies task management by providing a convenient interface to organize daily tasks and push them to a GitHub repository.
+Welcome to the Git Task Pusher CLI application by Sharpsailor ( [JITENDER SINGH](https://www.linkedin.com/in/sharpsailor/))! This command-line tool simplifies task management by providing a convenient interface to organize daily tasks and push them to a GitHub repository.
 
 ## Features
 
